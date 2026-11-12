@@ -1,0 +1,68 @@
+{
+	"structures": {
+		"dungeon_overhaul": true,
+		"swamp_hut_variants": true,
+		"buried_treasure_rework": true,
+		"new_structures": true
+	},
+	"loot": {
+		"enchanted_beetroot": true,
+		"metal_chunk": true,
+		"trident_shard": true,
+		"wooden_buckets": true,
+		"new_music_discs": true,
+		"boomerang": true,
+		"hook": true,
+		"knife": true,
+		"lore_books": true,
+		"improved_loot": true
+	},
+	"artifacts": {
+		"reinforced_chestplate": true,
+		"travelling_strides": true,
+		"wanderer_boots": true,
+		"verdant_sword": true,
+		"cleaving_battleaxe": true,
+		"molten_pickaxe": true,
+		"prospector_shovel": true,
+		"withered_hoe": true,
+		"totem_of_vengeance": true,
+		"totem_of_teleportation": true,
+		"tablet_of_recall": true,
+		"tablet_of_haste": true,
+		"tablet_of_levitation": true,
+		"tablet_of_channeling": true,
+		"tablet_of_deafening": true,
+		"tablet_of_revealing": true,
+		"amulet_of_allure": true,
+		"amulet_of_synthesis": true,
+		"amulet_of_evasion": true
+	},
+	"enchantments": {
+		"tangled": true,
+		"extraction": true,
+		"freeze": true,
+		"featherweight": true,
+		"rejuvenate": true,
+		"decay": true
+	},
+	"music": {
+		"snowy_music": true,
+		"savanna_music": true,
+		"dark_forest_music": true,
+		"main_end_island_music": true,
+		"end_portal_music": true,
+		"music_and_melody": true
+	},
+	"misc": {
+		"new_trim_materials": true,
+		"wandering_trader_trades": true,
+		"no_creeper_discs": false
+	},
+	"integrations": {
+		"wilder_wild": true,
+		"trailier_tales": true,
+		"variants_and_ventures": true,
+		"enderscape": true
+	}
+}

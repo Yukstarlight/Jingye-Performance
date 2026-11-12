@@ -1,0 +1,31 @@
+# 构建产物
+dist/
+
+# 个人 / 运行时数据
+saves/
+logs/
+crash-reports/
+screenshots/
+resourcepacks/
+shaderpacks/
+server-resource-packs/
+options.txt
+optionsof.txt
+servers.dat
+servers.dat_old
+usercache.json
+command_history.txt
+PCL/
+cache/
+downloads/
+*-natives/
+.fabric/
+
+# 模组二进制不进入仓库
+mods/
+*.jar
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store

@@ -1,0 +1,317 @@
+[
+  {
+    "file": "BadOptimizations-2.4.1-1.21.2-21.5.jar",
+    "project": "badoptimizations",
+    "title": "BadOptimizations",
+    "version": "2.4.1",
+    "license": "MIT",
+    "sha512": "e097cbaf9df0bd82b95d34261f6bd811182c4e2d527e0c352bcb8e7de76ef0e740b8a9f4fa25da24c4bdcf01a8e8bdd9f59b0cd9919d4e9890244ba4f874b4db",
+    "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/KsC2V6FQ/BadOptimizations-2.4.1-1.21.2-21.5.jar"
+  },
+  {
+    "file": "ForgeConfigAPIPort-v21.4.3-1.21.4-Fabric.jar",
+    "project": "forge-config-api-port",
+    "title": "Forge Config API Port",
+    "version": "v21.4.3-1.21.4-Fabric",
+    "license": "MPL-2.0",
+    "sha512": "3ed7728d93e245ca4dca7afc466524c3cab6ed779250ea989ef47aca3f71be8750e6aeebab67c9f7e016153f471c5440db4a48dd278911a0aa367a2692ccb914",
+    "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/SSKF75hc/ForgeConfigAPIPort-v21.4.3-1.21.4-Fabric.jar"
+  },
+  {
+    "file": "GpuTape-1.18x-1.21x-1.0.5.1.jar",
+    "project": "gputape",
+    "title": "GPUBooster",
+    "version": "1.0.5.1",
+    "license": "GPL-3.0-only",
+    "sha512": "9b38e8702d6a99569c4d6e83e748294bd5579cf7044c21d68db5151f8a57195d272c85747fe8f9a26a411cc663555738fe932314f18d9ba05d3af7db5e1c959b",
+    "url": "https://cdn.modrinth.com/data/5CTSrY8X/versions/ZoOH4tOq/GpuTape-1.18x-1.21x-1.0.5.1.jar"
+  },
+  {
+    "file": "ImmediatelyFast-Fabric-1.8.6+1.21.4.jar",
+    "project": "immediatelyfast",
+    "title": "ImmediatelyFast",
+    "version": "1.8.6+1.21.4-fabric",
+    "license": "LGPL-3.0-or-later",
+    "sha512": "3e2f5bb57caf2914bbdfeb091eac28d6c821ab8437918f184d8c344d9eb879b1754307fe289fd5b356c5f2f74fce4a59377d2e4eb0f4884103b995c2ec430322",
+    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/CFJfGS8F/ImmediatelyFast-Fabric-1.8.6%2B1.21.4.jar"
+  },
+  {
+    "file": "ScalableLux-0.1.2+fabric.87468e8-all.jar",
+    "project": "scalablelux",
+    "title": "ScalableLux",
+    "version": "0.1.2+fabric.87468e8",
+    "license": "LGPL-3.0-only",
+    "sha512": "ba4223be1e5f983f9ab0a186f2e63f07034e0d39ab009d6b4e59cb1f37e18d6139c669f0ea043b892c4211f79a68f61ebf6d500c0c8742babfa7a49b551cd68a",
+    "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/brerLvPf/ScalableLux-0.1.2%2Bfabric.87468e8-all.jar"
+  },
+  {
+    "file": "VulkanMod_1.21.4-0.5.6.jar",
+    "project": "vulkanmod",
+    "title": "VulkanMod",
+    "version": "0.5.6",
+    "license": "LGPL-3.0-only",
+    "sha512": "833457ffed8f1f53aebab2c4e5f8b454f1f6cdde9a1c8db5f7a112de80b54c33f4a0d7e06586b3e37c5e45e872f6817ad3abede2022d1da6417342273c7e68d9",
+    "url": "https://cdn.modrinth.com/data/JYQhtZtO/versions/RAtVo03C/VulkanMod_1.21.4-0.5.6.jar"
+  },
+  {
+    "file": "skinlayers3d-fabric-1.11.1-mc1.21.4.jar",
+    "project": "3dskinlayers",
+    "title": "3D Skin Layers",
+    "version": "1.11.1",
+    "license": "LicenseRef-tr7zw-Protective-License",
+    "sha512": "477fba261f4f71866ef171e9f3ee44a6045db8ac24ca3e80c0bf8e956d1cb5fe682b7ae7c34d4ab99c7156be504b1b55ad06f5acf9a67ee9bfcf53128599f04f",
+    "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/a4UNNzsi/skinlayers3d-fabric-1.11.1-mc1.21.4.jar"
+  },
+  {
+    "file": "c2me-fabric-mc1.21.4-0.3.2+alpha.0.44.jar",
+    "project": "c2me-fabric",
+    "title": "Concurrent Chunk Management Engine (Fabric)",
+    "version": "0.3.2+alpha.0.44+1.21.4",
+    "license": "MIT",
+    "sha512": "23872ca1c0565b02e8e7595c055616766482a47dd07fe3ea74c948eacadeed02ec9e8a69de84c420956381142b45cac2dfdee488410785ff58ad85cc091fe3c3",
+    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/WfGkrMP6/c2me-fabric-mc1.21.4-0.3.2%2Balpha.0.44.jar"
+  },
+  {
+    "file": "dynamic-fps-3.11.4+minecraft-1.21.2-fabric.jar",
+    "project": "dynamic-fps",
+    "title": "Dynamic FPS",
+    "version": "3.11.4",
+    "license": "MIT",
+    "sha512": "01b85d469cfed119a795ac34b971e92387fbd2eee1d6de618713e363fc6659bed40c96197e04258b5dd792a5a7d7dd65e65ceda6252345f38086ead4aff0f6f2",
+    "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/chAeqYaB/dynamic-fps-3.11.4%2Bminecraft-1.21.2-fabric.jar"
+  },
+  {
+    "file": "entityculling-fabric-1.9.5-mc1.21.4.jar",
+    "project": "entityculling",
+    "title": "Entity Culling",
+    "version": "1.9.5",
+    "license": "LicenseRef-tr7zw-Protective-License",
+    "sha512": "a33cf9cbca08a99c032d15a322aa99450a6d80feda9e4451b39e1938bbf18ae6b24c8d9f9b6588f449d2948f82e45c72314d2ed4fd73d5f9df1626bf21d1a146",
+    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/hLb4spl6/entityculling-fabric-1.9.5-mc1.21.4.jar"
+  },
+  {
+    "file": "notenoughcrashes-fabric-4.4.8+1.21.4.jar",
+    "project": "notenoughcrashes",
+    "title": "Not Enough Crashes",
+    "version": "4.4.8+1.21.4-fabric",
+    "license": "MIT",
+    "sha512": "e55c4156548b147f27657f0164aba2cafc3c85e21f7fbb0b3b8a4324fbd1d55e25614562559dcdec4b244a44f1d7cb7d1df49f91cf6b54c81e32f3c86f14771c",
+    "url": "https://cdn.modrinth.com/data/yM94ont6/versions/sW7BgUXk/notenoughcrashes-fabric-4.4.8%2B1.21.4.jar"
+  },
+  {
+    "file": "fastquit-3.0.0+1.21.4.jar",
+    "project": "fastquit",
+    "title": "FastQuit",
+    "version": "3.0.0+1.21.4",
+    "license": "MIT",
+    "sha512": "b2f0fe92e1c3ea6424a1b02271b63e66e37481be4e39cef170ff1ea690a78b25b1f5b25da14733018ed23c229e2832de5752a2257041306b2c72af34406e3ea5",
+    "url": "https://cdn.modrinth.com/data/x1hIzbuY/versions/HdbAWjaF/fastquit-3.0.0%2B1.21.4.jar"
+  },
+  {
+    "file": "placeholder-api-2.5.2+1.21.3.jar",
+    "project": "placeholder-api",
+    "title": "Text Placeholder API",
+    "version": "2.5.2+1.21.3",
+    "license": "LGPL-3.0-only",
+    "sha512": "06db18ada7973bd8cbe316faeebd25d89d79820da951208cc2ec69eb4058379d4e0c0233799d7043b5a19b62248f6a4d5f7031c110066fdf5d335e29385e3853",
+    "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/eeN3FuMY/placeholder-api-2.5.2%2B1.21.3.jar"
+  },
+  {
+    "file": "mcwifipnp-1.9.0-1.21.4-fabric.jar",
+    "project": "mcwifipnp",
+    "title": "LAN World Plug-n-Play (mcwifipnp)",
+    "version": "1.9.0",
+    "license": "Apache-2.0",
+    "sha512": "30c06a6c6b0b540e5ac5e31381f6b16d66735a0ddb7c08c89af112c15435bd69ba93960b47b7a40950806014d7fd3c43b72396dbfbabceb0df251feaa525b55f",
+    "url": "https://cdn.modrinth.com/data/RTWpcTBp/versions/jtHig8xJ/mcwifipnp-1.9.0-1.21.4-fabric.jar"
+  },
+  {
+    "file": "modmenu-13.0.3.jar",
+    "project": "modmenu",
+    "title": "Mod Menu",
+    "version": "13.0.3",
+    "license": "MIT",
+    "sha512": "147681418d8729790fe7712163706d5209a5e6c90ffe81867020f70595ef5ede8037586ca4eb8239e540b1375dca4a0bbfbbe86c61c488aabf9b702520b7afe5",
+    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/7iGb2ltH/modmenu-13.0.3.jar"
+  },
+  {
+    "file": "krypton-0.2.8.jar",
+    "project": "krypton",
+    "title": "Krypton",
+    "version": "0.2.8",
+    "license": "LGPL-3.0-only",
+    "sha512": "5f8cf96c79bfd4d893f1d70da582e62026bed36af49a7fa7b1e00fb6efb28d9ad6a1eec147020496b4fe38693d33fe6bfcd1eebbd93475612ee44290c2483784",
+    "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar"
+  },
+  {
+    "file": "modernfix-fabric-5.20.3+mc1.21.4.jar",
+    "project": "modernfix",
+    "title": "ModernFix",
+    "version": "5.20.3+mc1.21.4",
+    "license": "LGPL-3.0-only",
+    "sha512": "ae49114c92a048c9ce79e197fc4df028e186cf13546e710f72247382fa8076f0b70d6aa3224951f4a36c886ca236f099a011f20b021a2b0d1a75c631da4d7d52",
+    "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/ZGxQddYr/modernfix-fabric-5.20.3%2Bmc1.21.4.jar"
+  },
+  {
+    "file": "Clumps-fabric-1.21.4-22.0.0.1.jar",
+    "project": "clumps",
+    "title": "Clumps",
+    "version": "22.0.0.1",
+    "license": "MIT",
+    "sha512": "86909659af2f4b481ae9b230996e86658e622424e28b808d069144bf116bf47191df74cfec8b88bbc37ec9ad8cf5a4a24a0f21b39d6c456132331881c8575aeb",
+    "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/1ZHtT6Xo/Clumps-fabric-1.21.4-22.0.0.1.jar"
+  },
+  {
+    "file": "appleskin-fabric-mc1.21.3-3.0.6.jar",
+    "project": "appleskin",
+    "title": "AppleSkin",
+    "version": "3.0.6+mc1.21.3",
+    "license": "Unlicense",
+    "sha512": "b572a3eea43e0084819c88dd7fac6a0a5d5555d9b73df927b97f29764f281cadbfc8cc5f8f6b6920f1677bcec87b411e5a582d305a191735ad8d60fc90900900",
+    "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/cHQjeYVS/appleskin-fabric-mc1.21.3-3.0.6.jar"
+  },
+  {
+    "file": "ferritecore-7.1.3-fabric.jar",
+    "project": "ferrite-core",
+    "title": "FerriteCore",
+    "version": "7.1.3-fabric",
+    "license": "MIT",
+    "sha512": "74487d6efa6e973914665d0fdf366156c47e26a0e52a492ec5d5b68d7ea331535fa2cb46eb95a8846e3b2f0318bbcfdff3885df0bfce1bc83696b211d95e9863",
+    "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/7KqeXPRS/ferritecore-7.1.3-fabric.jar"
+  },
+  {
+    "file": "lithium-fabric-0.15.3+mc1.21.4.jar",
+    "project": "lithium",
+    "title": "Lithium",
+    "version": "mc1.21.4-0.15.3-fabric",
+    "license": "LGPL-3.0-only",
+    "sha512": "b8b541c0e968571c8972872b342e34b92573bc9210d455dc1349589f30a67a90d930dbfd99b176ab9b110350ceb53e11118378dc13a35e83a9090826627bdac0",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/u8pHPXJl/lithium-fabric-0.15.3%2Bmc1.21.4.jar"
+  },
+  {
+    "file": "Chunky-Fabric-1.4.27.jar",
+    "project": "chunky",
+    "title": "Chunky",
+    "version": "1.4.27",
+    "license": "GPL-3.0-only",
+    "sha512": "a89f94947e7c3992e01e46be8967d2a6593334333a546b4fff5fdb02a1f5a6b83c93adc4c72a9b9b1f14f9299efcaa8a5d7f5eeedf3da541c7e72abc5e2724c6",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/VkAgASL1/Chunky-Fabric-1.4.27.jar"
+  },
+  {
+    "file": "fabrishot-1.14.4.jar",
+    "project": "fabrishot",
+    "title": "Fabrishot",
+    "version": "1.14.4",
+    "license": "MIT",
+    "sha512": "c8c4f69d7bd97608ae09b451d50819a18ecf1cec6858ce405816f203ae73dd37803d0e44eec719e4749fccc9d84c61124495038306ea4520d0d58db1cffcaf5e",
+    "url": "https://cdn.modrinth.com/data/3qsfQtE9/versions/CULoAysC/fabrishot-1.14.4.jar"
+  },
+  {
+    "file": "cloth-config-17.0.144-fabric.jar",
+    "project": "cloth-config",
+    "title": "Cloth Config API",
+    "version": "17.0.144+fabric",
+    "license": "LGPL-3.0-only",
+    "sha512": "ecc59da51149250284b0752475c7b328e0b0325888948391597afc638d6e67fa436297af12d2067376de0098ffa6ca86aa3b8d6011356c179222404c701c6345",
+    "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/TJ6o2sr4/cloth-config-17.0.144-fabric.jar"
+  },
+  {
+    "file": "custom-watermark-1.11+1.21.4.jar",
+    "project": "custom-watermark",
+    "title": "Custom Watermark",
+    "version": "1.1.1",
+    "license": "GPL-3.0-only",
+    "sha512": "2695f1b50d68744e97324434876b75f8d512120e6729aac5985a0d77372b30de3f9ed396dfce69c4b5e5a96532bbe3c1b1b1c77d266494f9ae38fdd0a73c1328",
+    "url": "https://cdn.modrinth.com/data/4VmofwbX/versions/MvPQHfqM/custom-watermark-1.11%2B1.21.4.jar"
+  },
+  {
+    "file": "fabric-api-0.119.4+1.21.4.jar",
+    "project": "fabric-api",
+    "title": "Fabric API",
+    "version": "0.119.4+1.21.4",
+    "license": "Apache-2.0",
+    "sha512": "16b679f6a42549ca3b6bc147de710b2c8ba2d5e4661ed88df22782c05a4a5f6c1163d7b13867687ed91acde0fdfe5a5037d05662431c946865b58396284e7ee7",
+    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/p96k10UR/fabric-api-0.119.4%2B1.21.4.jar"
+  },
+  {
+    "file": "fabric-language-kotlin-1.13.11+kotlin.2.3.21.jar",
+    "project": "fabric-language-kotlin",
+    "title": "Fabric Language Kotlin",
+    "version": "1.13.11+kotlin.2.3.21",
+    "license": "Apache-2.0",
+    "sha512": "fa5ed2613f7216999cc0c5ddc71906f082a32b52507d7160acbdcf0eb8de12993ba302e5afde6681d025008ecc66c7533fc0c21deb672ef681b2194fb9be4245",
+    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/2i87JpYj/fabric-language-kotlin-1.13.11%2Bkotlin.2.3.21.jar"
+  },
+  {
+    "file": "grimac-fabric-2.3.74-9b1aa1a.jar",
+    "project": "grimac",
+    "title": "Grim Anticheat",
+    "version": "2.3.74-9b1aa1a",
+    "license": "GPL-3.0-or-later",
+    "sha512": "7b5b3807fb2f158ffc1c298df034a1088152d5de7ed0643831d21a1958f0a72af3e88a13ed95d47063bbf723b351e46d23818d23872d828e95def6b8beba89a6",
+    "url": "https://cdn.modrinth.com/data/LJNGWSvH/versions/OJ8QX8lJ/grimac-fabric-2.3.74-9b1aa1a.jar"
+  },
+  {
+    "file": "konkrete_fabric_1.9.9_MC_1.21.4.jar",
+    "project": "konkrete",
+    "title": "Konkrete",
+    "version": "1.9.9-1.21.4-fabric",
+    "license": "Apache-2.0",
+    "sha512": "56e7ef35274af38ee6f83ffd196a7ebe84d2cf747f3638bbbcf79f28c435ce7ebe4869a345c1352a727c20a4cc336e27b595f549fd850b781d2c22dfffc43934",
+    "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/9I475ADm/konkrete_fabric_1.9.9_MC_1.21.4.jar"
+  },
+  {
+    "file": "renderscale-fabric-1.21.4-1.1.jar",
+    "project": "renderscale",
+    "title": "RenderScale",
+    "version": "1.1",
+    "license": "MIT",
+    "sha512": "7c1f1dda45b3fc1b6e47bba1dadf9148c5dca3dac61e8386f54e515bd382dae102f4129fb9a747ee28687d352b3d2792f29c632d769adff24ba6a65771003211",
+    "url": "https://cdn.modrinth.com/data/Va8PJBFX/versions/9Ka6PhI5/renderscale-fabric-1.21.4-1.1.jar"
+  },
+  {
+    "file": "threadtweak-fabric-0.1.7+mc1.21.5.jar",
+    "project": "threadtweak",
+    "title": "ThreadTweak",
+    "version": "0.1.7",
+    "license": "MIT",
+    "sha512": "aec7e39b478d47dc96ba12291fd048ed9253c39d27a0c25b8565b3cef08eb5117b4f6bf2453c3377d2de739de8ba0501c77b291b6f0fc82559f0f30514a9125a",
+    "url": "https://cdn.modrinth.com/data/vSEH1ERy/versions/IvtlnXcT/threadtweak-fabric-0.1.7%2Bmc1.21.5.jar"
+  },
+  {
+    "file": "timm-1.1.1-1.21.4.jar",
+    "project": "immersivemusicmod",
+    "title": "The Immersive Music Mod",
+    "version": "1.1.1",
+    "license": "GPL-3.0-only",
+    "sha512": "fe0d5154fc853750ff4c1ffdc999658a4afef4ff692113879d5edc76a8ac7aa9a65eec537822d4f58d3d7747b57c3ccac8d0fa993700678a5582506bba3a113b",
+    "url": "https://cdn.modrinth.com/data/EgBj3Bnf/versions/MMi1gaCn/timm-1.1.1-1.21.4.jar"
+  },
+  {
+    "file": "vmp-fabric-mc1.21.4-0.2.0+beta.7.192-all.jar",
+    "project": "vmp-fabric",
+    "title": "Very Many Players (Fabric)",
+    "version": "0.2.0+beta.7.192+1.21.4",
+    "license": "MIT",
+    "sha512": "4e13cfbb97099784bb27fbb87eebc163974ba6c31081829d01ae435920d2604df03c625d5daecbefa1a0cca40b699840d5e964819993b451b1c9c7a7bd7c80d2",
+    "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/61Gy0NAD/vmp-fabric-mc1.21.4-0.2.0%2Bbeta.7.192-all.jar"
+  },
+  {
+    "file": "vulkanmod-extra-0.2.0-beta7+1.21.4.jar",
+    "project": "vulkanmod-extra",
+    "title": "VulkanMod Extra",
+    "version": "0.2.0-beta7",
+    "license": "MIT",
+    "sha512": "771f076143ccfd271b84530bf90699652bd65214fac9714f27a77f1258bfebf2541a50127d3d53fe30566652df45d74705dd60c510f503b5b476fdf7b43dcff1",
+    "url": "https://cdn.modrinth.com/data/gglzOxJ8/versions/fshPYknV/vulkanmod-extra-0.2.0-beta7%2B1.21.4.jar"
+  },
+  {
+    "file": "yet_another_config_lib_v3-3.8.2+1.21.4-fabric.jar",
+    "project": "yacl",
+    "title": "YetAnotherConfigLib (YACL)",
+    "version": "3.8.2+1.21.4-fabric",
+    "license": "LGPL-3.0-or-later",
+    "sha512": "4c44736033fe6a662155fb46c0e65e1e4d5011d397c671a2ba86ddb8d0cc3e196cd17d01c4270cec465e0d90664b56054f0d6f9cf743a4fa909c984355194df5",
+    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/kcTd0BNZ/yet_another_config_lib_v3-3.8.2%2B1.21.4-fabric.jar"
+  }
+]
